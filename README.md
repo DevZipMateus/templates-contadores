@@ -37,8 +37,8 @@ O repositório está organizado em **pastas individuais**, uma para cada modelo 
   </tr>
   <tr>
     <td align="center">
-      <a href="https://preview--easy-financial-solutions.lovable.app/" target="_blank">
-        <img src="images/easy-financial-solutions.png" width="300">
+      <a href="https://contabilidade-template-gen.lovable.app/" target="_blank">
+        <img src="images/contabilidade-template.png" width="300">
       </a>
       <br>
       <strong>Modelo 3</strong>
