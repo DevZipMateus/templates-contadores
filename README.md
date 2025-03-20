@@ -28,8 +28,8 @@ O repositório está organizado em **pastas individuais**, uma para cada modelo 
       <strong>Modelo 1</strong>
     </td>
     <td align="center">
-      <a href="https://preview--conta-connection-hub-36.lovable.app/" target="_blank">
-        <img src="images/conta-connection-hub.png" width="300">
+      <a href="https://contabilidade-template-gen.lovable.app/" target="_blank">
+        <img src="images/contabilidade-template.png" width="300">
       </a>
       <br>
       <strong>Modelo 2</strong>
