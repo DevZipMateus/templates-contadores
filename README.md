@@ -13,19 +13,61 @@ O repositório está organizado em **pastas individuais**, uma para cada modelo 
 📁 modelo5/ → Template 5<br>
 📁 modelo6/ → Template 6<br>
 
----
-
 ## 🎨 Prévia dos Modelos  
 
-| Modelo   | Prévia  | Visualizar  |
-|---------|--------|-------------|
-| **Modelo 1** | ![Modelo 1](images/contabilidade-harmonica.png) | 🔗 [Ver Demo](https://contabilidade-harmonica.lovable.app/) ✅ |
-| **Modelo 2** | ![Modelo 2](images/easy-financial-solutions.png) | 🔗 [Ver Demo]() ✅ |
-| **Modelo 3** | ![Modelo 3](images/contador-simplicity.png) | 🔗 [Ver Demo]() ✅ |
-| **Modelo 4** | ![Modelo 4](images/contabilify-modern-site.png) | 🔗 [Ver Demo]() ✅ |
-| **Modelo 5** | ![Modelo 5](images/contabilidade-template-gen.png) | 🔗 [Ver Demo]() ✅ |
-| **Modelo 6** | ![Modelo 6](images/conta-connection-hub.png) | 🔗 [Ver Demo]() ✅ |
 
-_(Substitua os links e os nomes das imagens quando necessário.)_  
+<div align="center">
 
----
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://preview--contabilidade-harmonica.lovable.app/" target="_blank">
+        <img src="images/contabilidade-harmonica.png" width="300">
+      </a>
+      <br>
+      <strong>Modelo 1</strong>
+    </td>
+    <td align="center">
+      <a href="https://preview--conta-connection-hub-36.lovable.app/" target="_blank">
+        <img src="images/conta-connection-hub.png" width="300">
+      </a>
+      <br>
+      <strong>Modelo 2</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://preview--easy-financial-solutions.lovable.app/" target="_blank">
+        <img src="images/easy-financial-solutions.png" width="300">
+      </a>
+      <br>
+      <strong>Modelo 3</strong>
+    </td>
+    <td align="center">
+      <a href="https://contador-simplicity.lovable.app/" target="_blank">
+        <img src="images/contador-simplicity.png" width="300">
+      </a>
+      <br>
+      <strong>Modelo 4</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://contabilidade-template-gen.lovable.app/" target="_blank">
+        <img src="images/contabilidade-template-gen.png" width="300">
+      </a>
+      <br>
+      <strong>Modelo 5</strong>
+    </td>
+    <td align="center">
+      <a href="https://preview--contabilify-modern-site.lovable.app/" target="_blank">
+        <img src="images/contabilify-modern-site.png" width="300">
+      </a>
+      <br>
+      <strong>Modelo 6</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
+
