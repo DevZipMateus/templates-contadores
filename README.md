@@ -38,7 +38,7 @@ O repositório está organizado em **pastas individuais**, uma para cada modelo 
   <tr>
     <td align="center">
       <a href="https://easy-financial-solutions-86.lovable.app/" target="_blank">
-        <img src="easy-financial-solutions.png" width="300">
+        <img src="images/easy-financial-solutions.png" width="300">
       </a>
       <br>
       <strong>Modelo 3</strong>
