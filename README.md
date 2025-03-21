@@ -44,8 +44,8 @@ O repositório está organizado em **pastas individuais**, uma para cada modelo 
       <strong>Modelo 3</strong>
     </td>
     <td align="center">
-      <a href="https://contador-simplicity.lovable.app/" target="_blank">
-        <img src="images/contador-simplicity.png" width="300">
+      <a href="https://conta-connection-hub.lovable.app/" target="_blank">
+        <img src="images/conta-connection-hub.png" width="300">
       </a>
       <br>
       <strong>Modelo 4</strong>
