@@ -21,7 +21,7 @@ O repositório está organizado em **pastas individuais**, uma para cada modelo 
 <table>
   <tr>
     <td align="center">
-      <a href="https://preview--contabilidade-harmonica.lovable.app/" target="_blank">
+      <a href="https://contabilidade-harmonica.lovable.app/" target="_blank">
         <img src="images/contabilidade-harmonica.png" width="300">
       </a>
       <br>
