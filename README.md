@@ -60,7 +60,7 @@ O repositório está organizado em **pastas individuais**, uma para cada modelo 
       <strong>Modelo 5</strong>
     </td>
     <td align="center">
-      <a href="https://preview--contabilify-modern-site.lovable.app/" target="_blank">
+      <a href="https://contabilify-modern-site.lovable.app/" target="_blank">
         <img src="images/contabilify-modern-site.png" width="300">
       </a>
       <br>
